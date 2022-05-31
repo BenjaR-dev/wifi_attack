@@ -1,0 +1,5 @@
+#!/bin/bash
+#Creador 𝕲𝖆𝖙𝖔 𝖉𝖊 𝕾𝖊𝖌𝖚𝖗𝖎𝖉𝖆𝖉
+
+cd wifi_attack
+bash wifi_attack.sh
